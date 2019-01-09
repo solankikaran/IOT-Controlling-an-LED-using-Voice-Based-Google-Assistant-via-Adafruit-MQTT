@@ -52,3 +52,5 @@ NOTE: *the codes are case sensitive so please take care.
 Connections:
 D2(In the Code written as 04, i.e GPIO04) of ESP8266 - Positive Terminal of LED
 GND of ESP8266 - Negative Terminal of LED
+
+https://youtu.be/Rh8oq-9Nr1A
